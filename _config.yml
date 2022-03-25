@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <h1 style="color:#215732;"><p style="text-align:center;"><b>MEANS HOME</h1></b></p>
   <h2 style="color:#A28D5B;"><em><p style="text-align:center;"><b>FIND BEAUTY EVERYWHERE YOU LOOK</h2></em></b></p>
   <br><br>
-  <h2 style="text-align: center;" markdown="1"><b>GUIDED TOUR WITH</b><a href="https://youtu.be/F5zBN4X2BzM" onclick="getOutboundLink('https://youtu.be/F5zBN4X2BzM'); return false;"<b> LOIDA VELASQUEZ</b></h2></a>
+  <h2 style="text-align: center;" markdown="1"><b>GUIDED TOUR WITH</b><a href="https://www.youtube.com/watch?v=F5zBN4X2BzM" onclick="getOutboundLink('https://www.youtube.com/watch?v=F5zBN4X2BzM'); return false;"<b> TOP LA REALTOR</b></h2></a>
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>EXPLORE THE</b><a href="https://www.google.com/maps/@34.0693143,-118.2668329,3a,90y,117.8h,87.82t/data=!3m6!1e1!3m4!1s2nJaY6szc6mxFDhxXhTKJg!2e0!7i16384!8i8192" onclick="getOutboundLink('https://www.google.com/maps/@34.0693143,-118.2668329,3a,90y,117.8h,87.82t/data=!3m6!1e1!3m4!1s2nJaY6szc6mxFDhxXhTKJg!2e0!7i16384!8i8192'); return false;"<b> NEIGHBORHOOD</b></h2></a> 
   <br><br>
