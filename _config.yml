@@ -1,7 +1,7 @@
 #title: AVERtek # your name photo (or website title) here
 logo1: "images/BAHAY-LOGO-leaf-green-gold.png? raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h1 style="color:#215732;"><p style="text-align:center;"><b>MEANS HOME</h1></b></p>
+  <h1 style="color:#215732;"><p style="text-align:center;"><b>LUXURY APARTMENTS</h1></b></p>
   <h2 style="color:#A28D5B;"><em><p style="text-align:center;"><b>FIND BEAUTY EVERYWHERE YOU LOOK</h2></em></b></p>
   <br><br>
   <h2 style="text-align: center;" markdown="1"><b>GUIDED TOUR WITH TOP</b><a href="https://www.youtube.com/watch?v=F5zBN4X2BzM" onclick="getOutboundLink('https://www.youtube.com/watch?v=F5zBN4X2BzM'); return false;"<b> LOS ANGELES REALTOR</b></h2></a>
